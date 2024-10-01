@@ -1,6 +1,6 @@
 # Space-Laser-Game
 
-Group Project\n
-Jaehong Lee       jaehong.lee@wsu.edu\n
-Kaung Myat Lwin   kaungmyat.lwin@wsu.edu\n
-Rize Zheng        rize.zheng@wsu.edu\n
+Group Project:   
+Jaehong Lee       jaehong.lee@wsu.edu
+Kaung Myat Lwin   kaungmyat.lwin@wsu.edu
+Rize Zheng        rize.zheng@wsu.edu
